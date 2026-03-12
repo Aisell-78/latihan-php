@@ -1,0 +1,12 @@
+{
+    "1": {
+        "nama": "Kopi Susu Gula Aren",
+        "deskripsi": "Kopi pilihan dengan susu segar dan gula aren asli.",
+        "harga": 18000
+    },
+    "2" : {
+        "nama" : "Es Teh Tawar",
+        "deskripsi": "Halal",
+        "harga": 4000
+    }
+}
